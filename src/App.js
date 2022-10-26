@@ -1,4 +1,4 @@
-import Main from "./Components/Main";
+import Main from "./Pages/Main";
 
 export default function App() {
   return (
